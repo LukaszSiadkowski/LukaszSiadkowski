@@ -7,7 +7,8 @@
 <img align="left" alt="pandas" src="https://img.shields.io/badge/pandas%20-%2320232a.svg?&style=for-the-badge&logo=pandas&logoColor=%2361DAFB" />
 <img align="left" alt="selenium" src="https://img.shields.io/badge/selenium%20-%2320232a.svg?&style=for-the-badge&logo=selenium&logoColor=%2361DAFB" />
 <img align="left" alt="VBA" src="https://img.shields.io/badge/VBA%20-%2320232a.svg?&style=for-the-badge&logo=VBA&logoColor=%2361DAFB" />
-<img align="left" alt="VBA" src="https://img.shields.io/badge/VBA%20-%2320232a.svg?&style=for-the-badge&logo=VBA&logoColor=%2361DAFB" /><br>
+<img align="left" alt="postgresql" src="https://img.shields.io/badge/postgreSQL%20-%2320232a.svg?&style=for-the-badge&logo=postgresql&logoColor=%2361DAFB" />
+<img align="left" alt="jupyter" src="https://img.shields.io/badge/jupyter%20-%2320232a.svg?&style=for-the-badge&logo=jupyter&logoColor=%2361DAFB" /><br>
 <br>
 
 
