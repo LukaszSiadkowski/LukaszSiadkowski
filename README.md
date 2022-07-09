@@ -14,7 +14,7 @@
 
 
 - 🌱 I’m currently learning working with Cobol and Apache Airflow
-- 👯 I’m fascinated with Julia language
+- 👯 I’m fascinated with Julia language and would love to fully work with it
 
 
 <!--
