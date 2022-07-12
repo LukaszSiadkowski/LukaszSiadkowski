@@ -13,8 +13,9 @@
 <br>
 
 
-- 🌱 I’m currently learning working with Cobol and Apache Airflow
-- ⚡I’m fascinated with Julia language and would love to fully work with it
+- 🌱 I’m currently learning working with R and Apache Airflow
+- ⚡ I’m fascinated with Julia language and would love to fully work with it
+- 😄 Exploring COBOL
 
 
 <!--
